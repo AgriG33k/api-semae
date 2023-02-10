@@ -3,6 +3,10 @@
 Ce projet a pour objectif de créer une API sur la base des variétés de SEMAE. 
 https://www.semae.fr/catalogue-varietes/base-varietes-gnis/
 
+> Disclaimer juridique sur les donnnées : 
+Sont accessibles : l’intégralité des variétés des listes du Catalogue national et les variétés inscrites dans d’autres pays de l’Union européenne qui sont produites et/ou commercialisées en France (soit plus de 17 000 variétés).
+Les informations présentées ne revêtent aucune valeur juridique, seul fait foi la publication au Journal officiel français ou de l’Union européenne.
+
 Sur la base d'un fichier CSV disponible, les données sont importées dans une base de données puis exposées à travers une API Python, créé à l'aide de Flask.
 
 Plusieurs points d'entrées sont disponibles :
